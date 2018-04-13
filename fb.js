@@ -5,7 +5,6 @@ module.exports = {
 	'callbackUrl' : 'https://daywhispersocial.herokuapp.com/login/facebook/callback'
 }	
 
-
 //https://localhost:3000/login/facebook/callback
 //https://daywhisper.auth0.com/login/facebook/callback
 //https://localhost:3000/auth/login/facebook/callback
